@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "datetime": "July-09-2023",
+      "body": "document lines 1 to 10"
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "datetime": "July-10-2023",
+      "body": "document lines 1 to 20"
+    },
+    {
+      "id": 3,
+      "title": "Post 33",
+      "datetime": "Oct 06, 2023 3:51:20 PM",
+      "body": "document lines 1 to 300"
+    }
+  ]
+}
