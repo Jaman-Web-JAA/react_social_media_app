@@ -1,4 +1,4 @@
-import { createContext, useState, useEffect} from "react";
+import { createContext} from "react";
 const DataContext = createContext({});
 
 export const Dataprovider = ({children}) => {
